@@ -56,4 +56,21 @@ Nekoo https://example.com -a -c
 Response Code: |code| (|GOOD OR BAD|)
 Attack started...
 
+## Tutorial video
+[Video](https://www.mediafire.com/file/a9wb8wfkgrx1c9k/aero.mp4/file) 
 
+#Threads in Nekoo
+There's an configuration folder named **config** with **config.yaml** 
+the threads are multipled by your CPU cores if your device is  weak please put threads to 2 or 1 
+> Maximum suggested threads is 16, if you put higher number than 16 it can harm your device due to overload
+
+
+> I am **not responsible** for any actions taken by users of this application. Nekoo is intended for **educational and ethical testing** only. Any use of the tool in unauthorized or illegal activities is strictly prohibited. The website shown in the demo video was used **only for testing purposes** and does not represent any real-world service or site. Always ensure you have proper authorization before conducting any tests.
+
+## License
+[![Mozilla License](https://img.shields.io/badge/License-MPL-green.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
+
+#Contributed, Created and Author
+
+- [@Fr0zyyy](https://www.github.com/Fr0zyyy)
+Made with Love <3
