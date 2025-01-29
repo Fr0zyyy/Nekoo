@@ -23,4 +23,37 @@ dotnet build
 ```
 ## Tip
 **Nekoo** can be used on multiple devices to make DDoS attacks
+![Explain](Collections/Explanation.jpg)
+
+## Available flags and commands
+| Flag |  About                |
+| :-------- | :------------------------- |
+| `-c` | Gets Website's or Server's respond code |
+| `-a` | Performs attack on Website or Server |
+| `-h` | Just regular help command |
+
+## How to use
+```powershell
+Nekoo https://example.com -c
+```
+**Output**:
+If responds, 200 else other code
+
+```powershell
+Nekoo https://example.com -a
+```
+"-a" starts attack as i mentioned before, if the code will be still 200 the application will continue until it does not responds anymore.
+
+Flag -a, -c does attribute itselves besides -h
+
+example usage:
+
+```powershell
+Nekoo https://example.com -a -c
+```
+
+**Output**:
+Response Code: |code| (|GOOD OR BAD|)
+Attack started...
+
 
