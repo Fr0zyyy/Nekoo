@@ -1,2 +1,2 @@
 # Nekoo
-![Icon](Collections/Nekoo (1).jpeg)
+![Icon](Collections/Nekoo (1).png)
