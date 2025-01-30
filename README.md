@@ -64,7 +64,42 @@ There's an configuration folder named **config** with **config.yaml**
 the threads are multipled by your CPU cores if your device is  weak please put threads to 2 or 1 
 > Maximum suggested threads is 16, if you put higher number than 16 it can harm your device due to overload.
 
+# Making Nekoo Recognizable in CMD
 
+To make Nekoo accessible from any terminal location on Windows, follow these steps:
+
+## Steps to Configure Environment Variables
+
+1. **Copy the Installation Path:**  
+   Locate and copy the directory path where Nekoo is installed.
+
+2. **Open System Environment Variables:**  
+   Search for `Environment Variables` in the Start Menu and select **Edit the system environment variables**.
+
+3. **Navigate to User and System Variables:**  
+   In the dialog box, you'll see two sections:  
+   - **User Variables**  
+   - **System Variables**  
+
+4. **Add Path in User Variables:**  
+   - Find the **Path** variable under User Variables and select it.  
+   - Click **Edit** and then **Add**.  
+   - Paste the copied path.  
+   - Save the changes and exit.
+
+5. **Add Path in System Variables:**  
+   - Find the **Path** variable under System Variables and select it.  
+   - Click **Edit**, then **Add**, and paste the same path.  
+   - Save the changes and exit.
+
+6. **Test the Configuration:**  
+   Open **CMD** and type the following command:  
+
+   ```cmd
+   Nekoo -h
+   ```
+
+# WARNING!!
 > I am **not responsible** for any actions taken by users of this application. Nekoo is intended for **educational and ethical testing** only. Any use of the tool in unauthorized or illegal activities is strictly prohibited. The website shown in the demo video was used **only for testing purposes** and does not represent any real-world service or site. Always ensure you have proper authorization before conducting any tests.
 
 ## Version
