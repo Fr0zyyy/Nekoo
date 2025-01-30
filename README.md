@@ -59,7 +59,7 @@ Attack started...
 ## Tutorial video
 [Video](https://www.mediafire.com/file/a9wb8wfkgrx1c9k/aero.mp4/file) 
 
-#Threads in Nekoo
+## Threads in Nekoo
 There's an configuration folder named **config** with **config.yaml** 
 the threads are multipled by your CPU cores if your device is  weak please put threads to 2 or 1 
 > Maximum suggested threads is 16, if you put higher number than 16 it can harm your device due to overload.
