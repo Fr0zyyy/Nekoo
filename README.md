@@ -82,3 +82,6 @@ Made with Love <3
 
 **Discord** bottalion
 Contact with me!
+
+## Fund on patreon
+[![Support Me on Patreon](https://img.shields.io/badge/Patreon-Support%20Me-orange?logo=patreon)](https://patreon.com/Bottalion)
