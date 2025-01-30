@@ -70,7 +70,7 @@ the threads are multipled by your CPU cores if your device is  weak please put t
 ## License
 [![Mozilla License](https://img.shields.io/badge/License-MPL-green.svg)](https://www.mozilla.org/en-US/MPL/2.0/)
 
-#Contributed, Created and Author
+# Contributed, Created and Author
 
 - [@Fr0zyyy](https://www.github.com/Fr0zyyy)
 Made with Love <3
